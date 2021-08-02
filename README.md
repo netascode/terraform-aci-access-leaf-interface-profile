@@ -36,7 +36,7 @@ module "aci_access_leaf_interface_profile" {
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_name"></a> [name](#input\_name) | Leaf interface profile name | `string` | n/a | yes |
+| <a name="input_name"></a> [name](#input\_name) | Leaf interface profile name. | `string` | n/a | yes |
 
 ## Outputs
 

@@ -1,5 +1,5 @@
 variable "name" {
-  description = "Leaf interface profile name"
+  description = "Leaf interface profile name."
   type        = string
 
   validation {
